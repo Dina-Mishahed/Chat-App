@@ -1,0 +1,6 @@
+Welcome to firepit v1.1.0!
+Doing JSON parses for version checks at C:\snapshot\firepit\vendor\node_modules\firebase-tools\package.json
+firebase-tools
+Installed ft@11.8.1 and packaged ft@11.8.0
+Legacy firepit / firebase-tools detected, clearing it out...
+ShellJSInternalError: ENOENT: no such file or directory, lstat 'C:/Users/dinam/.cache/firebase/tools/node_modules/firebase-tools/node_modules/typescript-json-schema/node_modules/typescript/loc/lcl/DEU/TypeScriptLanguageService'
